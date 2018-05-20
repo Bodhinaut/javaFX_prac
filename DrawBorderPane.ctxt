@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DrawBorderPane
+comment1.params=
+comment1.target=DrawBorderPane()
+comment2.params=
+comment2.target=void\ buildUI()
+comment3.params=
+comment3.target=void\ customizeUI()
+comment4.params=
+comment4.target=void\ registerEvents()
+comment5.params=e
+comment5.target=void\ handle(javafx.scene.input.MouseEvent)
+comment6.params=e
+comment6.target=void\ handle(javafx.scene.input.KeyEvent)
+numComments=7
